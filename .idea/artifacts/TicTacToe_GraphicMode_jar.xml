@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TicTacToe_GraphicMode:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TicTacToe_GraphicMode_jar</output-path>
+    <root id="archive" name="TicTacToe_GraphicMode.jar">
+      <element id="module-output" name="TicTacToe_GraphicMode" />
+    </root>
+  </artifact>
+</component>
